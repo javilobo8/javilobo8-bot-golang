@@ -1,0 +1,12 @@
+{
+  "mainChannel": "javilobo8",
+  "channels": [
+    {
+      "channel": "elmiillor",
+      "enabled": true,
+      "banCopyWindow": 10,
+      "banCopyEnabled": true,
+      "banCopyTime": 60
+    }
+  ]
+}
